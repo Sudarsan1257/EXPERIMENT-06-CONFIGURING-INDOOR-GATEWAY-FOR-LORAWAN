@@ -1,5 +1,11 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+**DATE:10/5/2026**
 
+**NAME:SUDARSAN.A**
+
+**ROLL NO:212224220111**
+
+**DEPARTMENT:B.TECH IT**
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
